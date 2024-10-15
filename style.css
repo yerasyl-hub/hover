@@ -1,0 +1,86 @@
+body{
+    background-color: #635e9b;
+}
+.box{
+    background-color: azure;
+    width: 600px;
+    height: 500px;
+    margin-left: 450px;
+    border-radius: 15px;
+}
+h2{
+    margin-left: 25px;
+    margin-top: 50px;
+}
+hr{
+    width: 500px;
+}
+.slack, .trello, .bord{
+    width: 100px;
+
+}
+.firstrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+*{
+    font-family: sans-serif;
+}
+.secondrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.eyefinder, .dropbox{
+    width: 100px;
+
+}
+button{
+    background-color: #6680ff;
+    margin-left: 130px;
+    margin-bottom: 50px;
+    border: none;
+    width: 350px;
+    height: 50px;
+    border-radius: 15px;
+
+}
+.jira{
+    width: 150px;
+}
+.one:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.two:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.tree:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.four:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.five:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.six:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 10px;
+}
+.seven:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 400px;
+    padding: 10px;
+}
